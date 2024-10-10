@@ -1,6 +1,5 @@
 # repo-geren-cust-azure
 Este repositório contém informações detalhadas sobre o gerenciamento de custos na Azure
-Claro! Vou te ajudar a criar um portfólio no GitHub com essas informações. Aqui está um exemplo de como você pode organizar o conteúdo:
 
 ### 1. Gerenciamento de Custos na Azure
 - **Descrição**: Introdução ao gerenciamento de custos na Azure, incluindo a importância de monitorar e otimizar os gastos.
